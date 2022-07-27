@@ -16,6 +16,7 @@ namespace RecursionMagic
             if (n < 1)
             {
                 Console.WriteLine("Finished");
+                Console.WriteLine("The final value of n is : {0}", n);
             }
             else
             {
