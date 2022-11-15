@@ -7,7 +7,8 @@ namespace RecursionMagic
     {
         static void Main(string[] args)
         {
-            int x = 6; // int.Parse(args[0]);
+            //int x = 6;
+            int.Parse(args[0]);
             mystery(x);
             Console.ReadLine();
         }
